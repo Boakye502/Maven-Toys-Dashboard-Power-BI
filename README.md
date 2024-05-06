@@ -3,9 +3,9 @@
 ![](TOYS_SHOP_PICTURE.jpg)
 
 ## INTRODUCTION
-This Project provides a brief overview of Maven Toys Sales data dashboard that includes its purpose and targets. The project is answers crucial questions and help the company make data driven decisions.
+This Project provides a brief overview of Maven Toys Sales data dashboard that includes its purpose and targets. The project answers crucial questions and help the company make data-driven decisions.
 
-**_Disclaimer_** : Datasets is just a dummy dataset to demonstrate capababilities of Microsoft Power BI, It doesnt demonstrate any company. 🏃
+**_Disclaimer_** : Datasets is just a dummy dataset to demonstrate the capababilities of Microsoft Power BI, It does not demonstrate any company. 🏃
 
 ## PROBLEM STATEMENT
 1.	Which store location has the highest revenue?
