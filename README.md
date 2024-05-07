@@ -31,7 +31,7 @@ The visualisation shows key metrics that include,total order by product category
 
 
 ## INTERACTIVITY 
-😃You can interact with the report [here]
+😃You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiNTA4NDYxZjUtYWM0Ni00ODliLTlkMzctY2I5YTlmMzA3MGMxIiwidCI6IjU0MzUwMDM0LWVhYTMtNGMyZC1hYmZhLTY0MGRmMDYyNjNhOCJ9)
 
 Users can filter data by product category, store location to focus on specific aspects of the sales performance
 
