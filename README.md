@@ -19,12 +19,15 @@ Microsoft Power BI skills featured include:
 -  Modelling,
 -  Quick measure,
 
-## Modelling
+## MODELLING
 ![](RELATIONSHIP_MODEL.png)
 The model is a star schema
 There are a 4-dimension tables. The tables are joined to the table with a one-to-many relationship on the primary key.
 
-## Visualisation
+## VISUALISATION
+
+Data visualization is essential, as the grahical representation of data sets provides context to our data and allows us to visualze trends and patterns much more easily. These dashboards will provide essential KPIs, charts and tables which measure the progress of the business in generating sales and revenue.
+
 ![](TOYS_DASHBOARD.png)
 
 The visualisation shows key metrics that include,total order by product category, total revenue by store location, total profit by store location, weekly trend by profit and other KPIs.
@@ -35,8 +38,10 @@ The visualisation shows key metrics that include,total order by product category
 
 Users can filter data by product category, store location to focus on specific aspects of the sales performance
 
-## Conclusion
+## KEY FINDINGS
 
 -  Toys has the highest total order by product category with 221,222 order followed by Arts and crafts with 220,673 orders in that other
 -  Downtown has the highest profit by store location followed by commercial, Residential and Airport
 -  There was 829k orders with a total revenue of 14.44million dollars 🤓
+
+## CONCLUSION
